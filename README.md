@@ -1,6 +1,6 @@
 # yet another course scheduler
 
-**this is a clone of [b44ken/yacs](github.com/b44ken/yacs)**. `cd yacs` if not already.
+**this is a clone of [b44ken/yacs](https://github.com/b44ken/yacs)**. `cd yacs` if not already.
 
 ## features
 - [x] static site (cloudflare pages)
